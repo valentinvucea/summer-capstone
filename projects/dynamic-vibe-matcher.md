@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Dynamic Vibe-Matcher
 ---
 ### The Goal

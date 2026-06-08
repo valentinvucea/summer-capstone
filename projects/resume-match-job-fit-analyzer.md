@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Resume Match - Job Fit Analyzer
 ---
 ### The Goal

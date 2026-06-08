@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Smart Playlist Shifter - Activity Pacer
 ---
 ### The Goal

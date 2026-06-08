@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Spotify-to-YouTube Bridge with AI Playlist Builder
 ---
 ### The Goal

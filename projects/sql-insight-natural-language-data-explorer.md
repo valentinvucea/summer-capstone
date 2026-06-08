@@ -1,4 +1,5 @@
 ---
+layout: project
 title: SQL-Insight - Natural Language Data Explorer
 ---
 ### The Goal

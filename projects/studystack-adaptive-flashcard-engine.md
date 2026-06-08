@@ -1,4 +1,5 @@
 ---
+layout: project
 title: StudyStack - Adaptive Flashcard Engine
 ---
 ### The Goal

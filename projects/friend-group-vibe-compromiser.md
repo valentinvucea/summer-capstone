@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Friend-Group Vibe Compromiser
 ---
 ### The Goal

@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Smart List Watcher
 ---
 ### The Goal

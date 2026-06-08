@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Subscription Overlap Auditor - Family Spending Helper
 ---
 ### The Goal

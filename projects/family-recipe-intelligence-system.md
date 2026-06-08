@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Family Recipe Intelligence System
 ---
 ### The Goal

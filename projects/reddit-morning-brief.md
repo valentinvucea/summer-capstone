@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Reddit Morning Brief
 ---
 ### The Goal

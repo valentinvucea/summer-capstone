@@ -1,4 +1,5 @@
 ---
+layout: project
 title: Ledger Lens - Private Transaction Categorizer & Reporter
 ---
 ### The Goal
