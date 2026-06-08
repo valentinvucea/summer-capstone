@@ -2,7 +2,7 @@
 title: Summer Capstone
 ---
 
-# On-line Courses
+## On-line Courses
 
 Ten courses covering the full stack from SQL fundamentals to cutting-edge agentic AI — building the theoretical backbone behind the capstone projects.
 
@@ -74,7 +74,7 @@ A focused guided project on building RAG pipelines with LangChain — document l
 
 ---
 
-# Capstone Projects
+## Capstone Projects
 
 Twelve AI-powered tools built around real, everyday problems — each one designed to be something you'd actually reach for, not a throwaway demo. Each project runs **6–7 weeks** at a minimum of **10 hours per week**, balancing design, implementation, and real-world testing.
 
